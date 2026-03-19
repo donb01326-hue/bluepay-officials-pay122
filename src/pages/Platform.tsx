@@ -9,7 +9,7 @@ const Platform = () => {
   const navigate = useNavigate();
   
   const handleJoinTelegram = () => {
-    window.open("https://t.me/bluepaylimited0x");
+    window.open("https://t.me/Redpay22");
   };
   
   const handleJoinWhatsapp = () => {
